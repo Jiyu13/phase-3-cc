@@ -8,7 +8,7 @@ class Review:
         self.add_viewer_to_movie()
         self.add_movie_to_viewer()
         self.add_review_to_movie()
-        self.add_review_to_viewer
+        self.add_review_to_viewer()
 
     # rating property goes here!
     @property
